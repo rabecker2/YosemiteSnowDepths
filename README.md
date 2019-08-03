@@ -13,3 +13,4 @@
 # STR_daily.txt = the raw daily SWE data for Ostrander Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=STR
 # TNY_daily.txt = the raw daily SWE data for Tenaya Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=TNY
 # VLC_daily.txt = the raw daily SWE data for Volcanic Knob from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=VLC
+# AGP_daily.txt = the raw daily SWE data for Agnew Pass from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=AGP

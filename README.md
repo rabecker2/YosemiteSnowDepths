@@ -56,3 +56,4 @@
 # HRT_monthly.txt = Heart Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=HRT
 # VLC_monthly.txt = Volcanic Knob from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=VLC
 # RMR_monthly.txt = Rose Marie from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=RMR
+# CMB_monthly.txt = Colby Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CBM

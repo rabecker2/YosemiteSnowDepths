@@ -2,7 +2,8 @@
 
 # This ReadMe provides an overview of the files in this repository.
 
-# The first group of files are the raw daily records of snow water equivalent (SWE) from the California Department of Water Resources:
+# The first group of files are the raw daily records of snow water equivalent (SWE) from the California Department of Water Resources.
+# The files are arranged from high to low elevation within each drainage basin from north to south.
 # DAN_daily.txt = the raw daily SWE data for Dana Meadows from http://cdec.water.ca.gov/dynamicapp/staMeta?station_id=DAN
 # SLI_daily.txt = the raw daily SWE data for Slide Meadows from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=SLI
 # TUM_daily.txt = the raw daily SWE data for Tuolumne Meadows from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=TUM
@@ -22,3 +23,5 @@
 # HNT_daily.txt = the raw daily SWE data for Huntington Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=HNT
 # GRV_daily.txt = the raw daily SWE data for Graveyard Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=GRV
 # PSR_daily.txt = the raw daily SWE data for Poison Ridge from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PSR
+
+# Processing these files through the clean_daily_records.R script will result in the following files:

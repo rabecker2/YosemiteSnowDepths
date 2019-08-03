@@ -48,3 +48,4 @@
 # STR_monthly.txt = Ostrander Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=STR
 # TNY_monthly.txt = Tenaya Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=TNY
 # PGM_monthly.txt = Peregoy Meadows from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PGM
+# GFL_monthly.txt = Gin Flat from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=GFL

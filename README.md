@@ -53,3 +53,4 @@
 # PPS_monthly.txt = Piute Pass from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PPS
 # EML_monthly.txt = Emerald Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=EML
 # PNB_monthly.txt = Pioneer Basin from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PNB
+# HRT_monthly.txt = Heart Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=HRT

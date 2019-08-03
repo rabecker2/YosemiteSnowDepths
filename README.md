@@ -18,3 +18,4 @@
 # GRM_daily.txt = the raw daily SWE data for Green Mountain from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=GRM
 # DPO_daily.txt = the raw daily SWE data for Devil's Postpile from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=DPO
 # TMR_daily.txt = the raw daily SWE data for Tamarack Summit from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=TMR
+# CHM_daily.txt = the raw daily SWE data for Chilkoot Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CHM

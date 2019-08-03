@@ -8,3 +8,4 @@
 # TUM_daily.txt = the raw daily SWE data for Tuolumne Meadows from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=TUM
 # HRS_daily.txt = the raw daily SWE data for Horse Meadows from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=HRS
 # WHW_daily.txt = the raw daily SWE data for White Wolf from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=WHW
+# PDS_daily.txt = the raw daily SWD data for Paradise Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PDS

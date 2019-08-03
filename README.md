@@ -33,3 +33,4 @@
 # NGM_monthly.txt = New Grace Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=NGM
 # TUM_monthly.txt = Tuolumne Meadows from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=TUM
 # HRS_monthly.txt = Horse Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=HRS
+# WLW_monthly.txt = Wilma Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=WLW

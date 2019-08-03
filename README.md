@@ -26,4 +26,7 @@
 
 # Processing these files through the clean_daily_records.R script will result in the "clean" version of these files.
 
-
+# The snow shielding correction also draws upon the following monthly records of SWE:
+# DAN_monthly.txt = Dana Meadows from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=DAN
+# RFM_monthly.txt = Rafferty Meadows from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=RFM
+# BNP_monthly.txt = Bond Pass from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=BNP

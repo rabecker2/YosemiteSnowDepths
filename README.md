@@ -45,3 +45,4 @@
 # BEM_monthly.txt = Bell Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=BEM
 # BHV_monthly.txt = Beehive Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=BHV
 # SNF_monthly.txt = Snow Flat from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=SNF
+# STR_monthly.txt = Ostrander Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=STR

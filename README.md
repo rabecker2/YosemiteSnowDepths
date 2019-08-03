@@ -20,3 +20,4 @@
 # TMR_daily.txt = the raw daily SWE data for Tamarack Summit from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=TMR
 # CHM_daily.txt = the raw daily SWE data for Chilkoot Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CHM
 # HNT_daily.txt = the raw daily SWE data for Huntington Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=HNT
+# GRV_daily.txt = the raw daily SWE data for Graveyard Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=GRV

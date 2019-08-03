@@ -41,3 +41,4 @@
 # KRC_monthly.txt = Kerrick Corral from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=KRC
 # VNN_monthly.txt = Vernon Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=VNN
 # LKB_monthly.txt = Lower Kibbie Ridge from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=LKB
+# UKR_monthly.txt = Upper Kibbie Ridge from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=UKR

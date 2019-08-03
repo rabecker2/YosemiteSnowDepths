@@ -10,3 +10,4 @@
 # WHW_daily.txt = the raw daily SWE data for White Wolf from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=WHW
 # PDS_daily.txt = the raw daily SWE data for Paradise Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PDS
 # SNF_daily.txt = the raw daily SWE data for Snow Flat from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=SNF
+# STR_daily.txt = the raw daily SWE data for Ostrander Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=STR

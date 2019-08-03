@@ -39,3 +39,4 @@
 # HCL_monthly.txt = Huckleberry Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=HCL
 # PDS_monthly.txt = Paradise Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PDS
 # KRC_monthly.txt = Kerrick Corral from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=KRC
+# VNN_monthly.txt = Vernon Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=VNN

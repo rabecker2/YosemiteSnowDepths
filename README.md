@@ -24,4 +24,6 @@
 # GRV_daily.txt = the raw daily SWE data for Graveyard Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=GRV
 # PSR_daily.txt = the raw daily SWE data for Poison Ridge from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PSR
 
-# Processing these files through the clean_daily_records.R script will result in the following files:
+# Processing these files through the clean_daily_records.R script will result in the "clean" version of these files.
+
+

@@ -47,3 +47,4 @@
 # SNF_monthly.txt = Snow Flat from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=SNF
 # STR_monthly.txt = Ostrander Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=STR
 # TNY_monthly.txt = Tenaya Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=TNY
+# PGM_monthly.txt = Peregoy Meadows from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PGM

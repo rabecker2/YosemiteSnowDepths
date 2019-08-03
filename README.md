@@ -35,3 +35,4 @@
 # HRS_monthly.txt = Horse Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=HRS
 # WLW_monthly.txt = Wilma Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=WLW
 # SAS_monthly.txt = Sachse Springs from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=SAS
+# SPF_monthly.txt = Spotted Fawn from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=SPF

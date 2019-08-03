@@ -50,3 +50,4 @@
 # PGM_monthly.txt = Peregoy Meadows from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PGM
 # GFL_monthly.txt = Gin Flat from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=GFL
 # MNP_monthly.txt = Mono Pass from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=MNP
+# PPS_monthly.txt = Piute Pass from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PPS

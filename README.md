@@ -57,3 +57,4 @@
 # VLC_monthly.txt = Volcanic Knob from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=VLC
 # RMR_monthly.txt = Rose Marie from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=RMR
 # CMB_monthly.txt = Colby Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CBM
+# AGP_monthly.txt = Agnew Pass from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=AGP

@@ -63,3 +63,4 @@
 # CYT_monthly.txt = Coyote Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CYT
 # CRA_monthly.txt = Cora Lakes from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CRA
 # BDF_monthly.txt = Badger Flat from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=BDF
+# NLL_monthly.txt = Nellie Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=NLL

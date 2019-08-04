@@ -65,3 +65,4 @@
 # BDF_monthly.txt = Badger Flat from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=BDF
 # NLL_monthly.txt = Nellie Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=NLL
 # THE_monthly.txt = Lake Thomas Edison from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=THE
+# CKT_monthly.txt = Chilkoot Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CKT

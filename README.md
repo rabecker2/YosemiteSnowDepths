@@ -67,3 +67,4 @@
 # THE_monthly.txt = Lake Thomas Edison from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=THE
 # CKT_monthly.txt = Chilkoot Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CKT
 # HTT_monthly.txt = Huntington Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=HTT
+# CLM_monthly.txt = Clover Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CLM

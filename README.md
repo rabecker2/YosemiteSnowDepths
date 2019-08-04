@@ -61,3 +61,4 @@
 # DTL_monthly.txt = Dutch Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=DTL
 # KSR_monthly.txt = Kaiser Pass from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=KSR
 # CYT_monthly.txt = Coyote Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CYT
+# CRA_monthly.txt = Cora Lakes from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CRA

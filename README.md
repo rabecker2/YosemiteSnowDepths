@@ -62,3 +62,4 @@
 # KSR_monthly.txt = Kaiser Pass from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=KSR
 # CYT_monthly.txt = Coyote Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CYT
 # CRA_monthly.txt = Cora Lakes from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CRA
+# BDF_monthly.txt = Badger Flat from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=BDF

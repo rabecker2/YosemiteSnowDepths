@@ -69,3 +69,4 @@
 # HTT_monthly.txt = Huntington Lake from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=HTT
 # CLM_monthly.txt = Clover Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CLM
 # JCM_monthly.txt = Jackass Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=JCM
+# CHQ_monthly.txt = Chiquito Creek from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CHQ

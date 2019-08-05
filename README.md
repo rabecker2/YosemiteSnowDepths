@@ -71,3 +71,8 @@
 # JCM_monthly.txt = Jackass Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=JCM
 # CHQ_monthly.txt = Chiquito Creek from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=CHQ
 # PMD_monthly.txt = Poison Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PMD
+
+# Sierra_Nevada_SWE.txt = provides info about each snow station, which the Khione R script will expect.
+# The published snow-shielding correction is based upon elevation, using an elevation-based snow correction is about 10% better
+#  than assuming that SWE is independent of elevation. I explored also using total (modern) monthly insolation--in combination with
+#  but this added no additional predictive skill.

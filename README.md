@@ -90,3 +90,8 @@
 # snow_depth.txt = the raw data for the relationship between daily snow depth and daily SWE. This data comes from the "clean daily" files
 #  above, and Khione will compile into a single snow_depth.txt file for you--but if you're jumping in at this point (line 1691 of Khione)
 #  you're going to need this file.
+
+# Marrero_simple_YESerosion_NOsnow_Chapter2.txt = the file that hosts the info about the new Be-10 sampling sites in Tuolumne Meadows
+#  and Lyell Canyon that our manuscript (in prep for Quaternary Science Reviews) reports. This file also includes info about the 
+#  Tioga 4 Cl-36 sampling sites of Phillips et al. (2009), but we use the snow-shielding corrections reported by Phillips et al. (2009)
+#  because our SWE vs. elevation relationship is solely derived from snow-monitoring stations on the westerns slope of the Sierra Nevada.

@@ -76,3 +76,12 @@
 # The published snow-shielding correction is based upon elevation, using an elevation-based snow correction is about 10% better
 #  than assuming that SWE is independent of elevation. I explored also using total (modern) monthly insolation--in combination with
 #  but this added no additional predictive skill.
+
+# all_the_monthly_differences.txt = all the individual monthly differences between (1) the monthly average of the daily SWE observations
+#  (from the snow pillows) and (2) the monthly, individual SWE measurements (from the snow courses). The daily data provide more robust
+#  monthly averages--but these records typically only begin in the 1980s whereas the snow course measurements typical begin in the 1930s.
+# The R script Khione uses the documented differences where there are overlaps in the record to estimate the monthly _average_ SWE
+#  value from the individual snow course measurement when there isn't overlap between the two SWE measurements.
+
+
+# Many months have both a monthly average SWE value--which I derived from the daily SWE measurements--and a monthly, individual SWE measurement. Making a measurement every day and then combining

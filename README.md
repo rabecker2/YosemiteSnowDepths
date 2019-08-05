@@ -83,5 +83,6 @@
 # The R script Khione uses the documented differences where there are overlaps in the record to estimate the monthly _average_ SWE
 #  value from the individual snow course measurement when there isn't overlap between the two SWE measurements.
 
-
-# Many months have both a monthly average SWE value--which I derived from the daily SWE measurements--and a monthly, individual SWE measurement. Making a measurement every day and then combining
+# repository.txt = the results of the SWE by month vs. elevation analysis. The R code Khione will generate it, but I've also included
+#  it here for those that wish to jump into the R code at this point (line 1691 of Khione) without redoing the time-consuming calculations
+#  of SWE by month vs. elevation. (Cleaning the daily SWE observations, to the generate the "clean" daily files is especially slow.)

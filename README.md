@@ -86,3 +86,7 @@
 # repository.txt = the results of the SWE by month vs. elevation analysis. The R code Khione will generate it, but I've also included
 #  it here for those that wish to jump into the R code at this point (line 1691 of Khione) without redoing the time-consuming calculations
 #  of SWE by month vs. elevation. (Cleaning the daily SWE observations, to the generate the "clean" daily files is especially slow.)
+
+# snow_depth.txt = the raw data for the relationship between daily snow depth and daily SWE. This data comes from the "clean daily" files
+#  above, and Khione will compile into a single snow_depth.txt file for you--but if you're jumping in at this point (line 1691 of Khione)
+#  you're going to need this file.

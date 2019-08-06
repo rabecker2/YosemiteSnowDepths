@@ -85,4 +85,4 @@
 
 # Marrero_simple_YESerosion_NOsnow_Chapter2.txt = the file that hosts the info about the new Be-10 sampling sites in Tuolumne Meadows and Lyell Canyon that our manuscript (in prep for Quaternary Science Reviews) reports.
 
-# Boulder_Height.txt
+# Boulder_Height.txt = info on the heights of the samples and the estimated precision of our knowledge of boulder height.

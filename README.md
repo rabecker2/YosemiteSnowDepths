@@ -83,7 +83,7 @@
 
 # snow_depth.txt = the raw data for the relationship between daily snow depth and daily SWE. This data comes from the "clean daily" files above, and Khione will compile into a single snow_depth.txt file for you--but if you're jumping in at this point (line 1691 of Khione) you're going to need this file.
 
-# Marrero_simple_YESerosion_NOsnow_TMandLC.txt = the file that hosts the info about the new Be-10 sampling sites in Tuolumne Meadows and Lyell Canyon that our manuscript (in prep for Quaternary Science Reviews) reports.
+# Marrero_simple_YESerosion_NOsnow_TMandLC.txt = the file that hosts the info about the new Be-10 sampling sites in Tuolumne Meadows and Lyell Canyon that our manuscript (in prep for Quaternary Science Reviews) reports. Note that the "Marrero... .txt" sample input file is based on the input file to the Marrero et al. (2016) calculator--hence the Marrero name for this file here.
 
 # Boulder_Height.txt = info on the heights of the samples and the estimated precision of our knowledge of boulder height.
 
@@ -96,3 +96,7 @@
 # "sample_data_... .txt" = the summary and details on our calculated snow-shielding corrections for the Tuolumne Meadows and Lyell Canyon Be-10 samples
 
 # "Sierra_SWE_finaloutput.txt" = repository of snow station and snow info; it combines Sierra_Nevada_SWE.txt with the snow observations recorded in each "daily clean" and "monthly" SWE file.
+
+# Khione91 - For GitHub.R" = the R script that draws in the "daily clean" and "monthly" SWE data, and the other files, and calculates the snow-shielding corrections for the samples in "Marrero..."
+
+# SUMMARY THUS FAR: The clean_daily_records R script takes the XYZ_daily files and generates the XYZ_daily_clean files. The first portion of Khione91 (up to line 2041) takes the XYZ_daily_clean files, the ABC_monthly files, Sierra_Nevada_SWE.txt, all_the_monthly_differences.txt, and it creates snow_depth.txt and repository.txt. This portion of the code calculates the relationship between SWE and Elevation, and the relationship between snow density and SWE, for the west-central Sierra Nevada. The second portion of Khione91 (line 2041 and beyond) ingests "Marrero... .txt" and Boulder_Height.txt, calculates the snow-shielding corrections for the samples in "Marrero", and exports the files "exportBoulderHeight... .txt", "monte_carlo_... .txt", "sample_data... .txt", "Sierra_SWE_finaloutput.txt", and "simpleBalco... .txt". I have provided many of these files here; be aware that downloading these files and rerunning Khione will overwrite them.

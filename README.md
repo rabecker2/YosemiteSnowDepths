@@ -104,3 +104,7 @@
 # THE MONTE CARLO IMPLEMENTATION OF THE BALCO et al CALCULATOR VIA IT'S WEBSITE: The analysis we present in manuscript (in prep for QSR) is based on version 2 of the Marrero et al. (2016) calculator; we consider, however, a Monte Carlo implementation of the version 3.0.3 Balco et al. (2008) calculator. This section of the ReadMe documents that Monte Carlo implementation of the Balco et al. (2008) calculator.
 
 # The "primary10Be_results... .txt" files are the results of the Monte Carlo implementation of the Balco et al. (2008) calculator. Each sample was simulated 1000 times, the simulated varients on each sample were fed into the Balco et al. calculator, and these are the results. The camelGrapher R script will compile the 1000 variations on each actual sample into a single age estimate for that sample.
+
+# IntPercentiles.txt = the internal 1 sigma (68% confidence) range for the samples
+# ExtPercentiles.txt = the external 1 sigma range for the samples.
+# These are based on the internal and external uncertainties reported by the Balco et al. (2008) calculator.

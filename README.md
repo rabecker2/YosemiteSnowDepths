@@ -73,25 +73,14 @@
 # PMD_monthly.txt = Poison Meadow from http://cdec.water.ca.gov/cgi-progs/staMeta?station_id=PMD
 
 # Sierra_Nevada_SWE.txt = provides info about each snow station, which the Khione R script will expect.
-# The published snow-shielding correction is based upon elevation, using an elevation-based snow correction is about 10% better
-#  than assuming that SWE is independent of elevation. I explored also using total (modern) monthly insolation--in combination with
-#  but this added no additional predictive skill.
+# The published snow-shielding correction is based upon elevation. Using an elevation-based snow correction is about 10% better than assuming that SWE is independent of elevation. I explored also using total (modern) monthly insolation--in combination with but this added no additional predictive skill.
 
-# all_the_monthly_differences.txt = all the individual monthly differences between (1) the monthly average of the daily SWE observations
-#  (from the snow pillows) and (2) the monthly, individual SWE measurements (from the snow courses). The daily data provide more robust
-#  monthly averages--but these records typically only begin in the 1980s whereas the snow course measurements typical begin in the 1930s.
-# The R script Khione uses the documented differences where there are overlaps in the record to estimate the monthly _average_ SWE
-#  value from the individual snow course measurement when there isn't overlap between the two SWE measurements.
+# all_the_monthly_differences.txt = all the individual monthly differences between (1) the monthly average of the daily SWE observations (from the snow pillows) and (2) the monthly, individual SWE measurements (from the snow courses). The daily data provide more robust monthly averages--but these records typically only begin in the 1980s whereas the snow course measurements typical begin in the 1930s.
 
-# repository.txt = the results of the SWE by month vs. elevation analysis. The R code Khione will generate it, but I've also included
-#  it here for those that wish to jump into the R code at this point (line 1691 of Khione) without redoing the time-consuming calculations
-#  of SWE by month vs. elevation. (Cleaning the daily SWE observations, to the generate the "clean" daily files is especially slow.)
+# The R script Khione uses the documented differences where there are overlaps in the record to estimate the monthly _average_ SWE value from the individual snow course measurement when there isn't overlap between the two SWE measurements.
 
-# snow_depth.txt = the raw data for the relationship between daily snow depth and daily SWE. This data comes from the "clean daily" files
-#  above, and Khione will compile into a single snow_depth.txt file for you--but if you're jumping in at this point (line 1691 of Khione)
-#  you're going to need this file.
+# repository.txt = the results of the SWE by month vs. elevation analysis. The R code Khione will generate it, but I've also included it here for those that wish to jump into the R code at this point (line 1691 of Khione) without redoing the time-consuming calculations of SWE by month vs. elevation. (Cleaning the daily SWE observations, to the generate the "clean" daily files is especially slow.)
 
-# Marrero_simple_YESerosion_NOsnow_Chapter2.txt = the file that hosts the info about the new Be-10 sampling sites in Tuolumne Meadows
-#  and Lyell Canyon that our manuscript (in prep for Quaternary Science Reviews) reports. This file also includes info about the 
-#  Tioga 4 Cl-36 sampling sites of Phillips et al. (2009), but we use the snow-shielding corrections reported by Phillips et al. (2009)
-#  because our SWE vs. elevation relationship is solely derived from snow-monitoring stations on the westerns slope of the Sierra Nevada.
+# snow_depth.txt = the raw data for the relationship between daily snow depth and daily SWE. This data comes from the "clean daily" files above, and Khione will compile into a single snow_depth.txt file for you--but if you're jumping in at this point (line 1691 of Khione) you're going to need this file.
+
+# Marrero_simple_YESerosion_NOsnow_Chapter2.txt = the file that hosts the info about the new Be-10 sampling sites in Tuolumne Meadows and Lyell Canyon that our manuscript (in prep for Quaternary Science Reviews) reports. This file also includes info about the Tioga 4 Cl-36 sampling sites of Phillips et al. (2009), but we use the snow-shielding corrections reported by Phillips et al. (2009) because our SWE vs. elevation relationship is solely derived from snow-monitoring stations on the westerns slope of the Sierra Nevada.

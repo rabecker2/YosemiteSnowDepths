@@ -92,3 +92,5 @@
 # "exportBoulderHeight... .txt" = the distributions of boulder height used for the samples from Tuolumne Meadows and Lyell Canyon, which are in preparation for publication with Quaternary Science Reviews.
 
 # "monte_carlo_... .txt" = the samples that we fed into v. 3.0.3. of the Balco et al. (2008) calculator in our ad hoc Monte Carlo approach to using it.
+
+# "sample_data_... .txt" = the summary and details on our calculated snow-shielding corrections for the Tuolumne Meadows and Lyell Canyon Be-10 samples

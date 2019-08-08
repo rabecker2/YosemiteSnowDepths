@@ -108,3 +108,5 @@
 # IntPercentiles.txt = the internal 1 sigma (68% confidence) range for the samples
 # ExtPercentiles.txt = the external 1 sigma range for the samples.
 # These are based on the internal and external uncertainties reported by the Balco et al. (2008) calculator.
+
+# simpleBalcoResults.txt = the ages of the Be-10 samples from Tuolumne Meadows and Lyell Canyon when they are processed through v. 3.0.3 of the Balco et al. (2008) calculator in the standard fashion (i.e., not in the Monte Carlo approach that we explored).

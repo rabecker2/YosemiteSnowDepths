@@ -114,3 +114,5 @@
 # Adjustments.txt = contains info on the sampling years of the samples, so all the dates can be placed on the common BP (Before 1950 CE) timescale.
 
 # ShastalatorResults.txt = the Be-10 ages from Tuolumne Meadows and Lyell Canyon when processed through version 2 of the "Shastalator," Marrero et al. (2016), the official CRONUS-Earth calculator. The principal conclusions of our manuscript in preparation for QSR are based on these ages.
+
+# CREpResults.txt = the Be-10 ages from Tuolumne Meadows and Lyell Canyon when processed through CREp, the Cosmic Ray Exposure program (Martin et al., 2017).

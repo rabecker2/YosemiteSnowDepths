@@ -110,3 +110,5 @@
 # These are based on the internal and external uncertainties reported by the Balco et al. (2008) calculator.
 
 # simpleBalcoResults.txt = the ages of the Be-10 samples from Tuolumne Meadows and Lyell Canyon when they are processed through v. 3.0.3 of the Balco et al. (2008) calculator in the standard fashion (i.e., not in the Monte Carlo approach that we explored).
+
+# Adjustments.txt = contains info on the sampling years of the samples, so all the dates can be placed on the common BP (Before 1950 CE) timescale.

@@ -112,3 +112,5 @@
 # simpleBalcoResults.txt = the ages of the Be-10 samples from Tuolumne Meadows and Lyell Canyon when they are processed through v. 3.0.3 of the Balco et al. (2008) calculator in the standard fashion (i.e., not in the Monte Carlo approach that we explored).
 
 # Adjustments.txt = contains info on the sampling years of the samples, so all the dates can be placed on the common BP (Before 1950 CE) timescale.
+
+# ShastalatorResults.txt = the Be-10 ages from Tuolumne Meadows and Lyell Canyon when processed through version 2 of the "Shastalator," Marrero et al. (2016), the official CRONUS-Earth calculator. The principal conclusions of our manuscript in preparation for QSR are based on these ages.

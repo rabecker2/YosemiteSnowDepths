@@ -118,3 +118,5 @@
 # CREpResults.txt = the Be-10 ages from Tuolumne Meadows and Lyell Canyon when processed through CREp, the Cosmic Ray Exposure program (Martin et al., 2017).
 
 # LocationOrder.txt = a file of sample names and y axis positions for plotting on graphs.
+
+# BishCreekAges--AutoOutlierRejection.xlsx = an Excel file summarizing our interpretative decisions regarding the Bishop Creek Cl-36 dates.

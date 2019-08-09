@@ -122,3 +122,7 @@
 # BishCreekAges--AutoOutlierRejection.xlsx = an Excel file summarizing our interpretative decisions regarding the Bishop Creek Cl-36 dates.
 
 # OldManMtn.txt = The Al-26 samples / ages from Old Man Mountain (James et al., 2002), as inventoried on the ICE-D: Alpine website.
+
+# SwampLakeTOC.txt = the Total Organic Carbon record from Swamp Lake, provided to us by Joe Street.
+# SwampLakeMag.txt = the magnetic susceptibility record from Swamp Lake, provided by Joe Street.
+# SwampLake14CAgesCALIB71.txt = the radicarbon and Calib 7.1 calibrated radiocarbon ages for the Swamp Lake core.

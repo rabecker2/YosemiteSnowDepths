@@ -120,3 +120,5 @@
 # LocationOrder.txt = a file of sample names and y axis positions for plotting on graphs.
 
 # BishCreekAges--AutoOutlierRejection.xlsx = an Excel file summarizing our interpretative decisions regarding the Bishop Creek Cl-36 dates.
+
+# OldManMtn.txt = The Al-26 samples / ages from Old Man Mountain (James et al., 2002), as inventoried on the ICE-D: Alpine website.

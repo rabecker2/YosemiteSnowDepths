@@ -1,0 +1,11 @@
+Reference	Location	SampleType	Latitude	Longitude	Elevation_m	Collection_Year	Sample_Name	Nuclide	Calculator	RawAge	Age_B1950	IntErr	ExtErr
+JamesEtAl2002	OldManMountainElevationTransect	Bedrock	39.36	-120.52	1910	1997	97-32	Al26	CRONUS	15.8	15753	2237	2700
+JamesEtAl2002	OldManMountainElevationTransect	Bedrock	39.36	-120.52	2000	1997	97-33	Al26	CRONUS	16.2	16153	1907	2500
+JamesEtAl2002	OldManMountainElevationTransect	Bedrock	39.36	-120.52	2120	1997	97-35	Al26	CRONUS	14	13953	1317	1900
+JamesEtAl2002	OldManMountainElevationTransect	Bedrock	39.36	-120.52	2140	1997	97-36	Al26	CRONUS	17.2	17153	1523	2300
+JamesEtAl2002	OldManMountainElevationTransect	Bedrock	39.36	-120.52	2160	1997	97-37	Al26	CRONUS	15.7	15653	1446	2100
+JamesEtAl2002	OldManMountainElevationTransect	Bedrock	39.36	-120.52	2190	1997	97-38	Al26	CRONUS	15.2	15153	1497	2100
+JamesEtAl2002	OldManMountainElevationTransect	Bedrock	39.36	-120.52	2210	1997	97-39	Al26	CRONUS	16.7	16653	1876	2500
+JamesEtAl2002	OldManMountainElevationTransect	Bedrock	39.36	-120.52	2240	1997	97-40	Al26	CRONUS	19	18953	1633	2400
+JamesEtAl2002	UnnamedButte	Bedrock	39.3015	-120.5668	1990	1997	BB-1B	Be10	CRONUS	17	16953	1426	1900
+JamesEtAl2002	UnnamedButte	Bedrock	39.3015	-120.5668	1990	1997	BB-1B	Al26	CRONUS	15.2	15153	1146	1800

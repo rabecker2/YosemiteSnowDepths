@@ -1,0 +1,414 @@
+Years_B1950	CO2_ppm	Core	IceCoreCitation
+214	280.4	EDC	Lemieux-Dudon; Monin
+339	274.9	EDC	Lemieux-Dudon; Monin
+348	277.9	EDC	Lemieux-Dudon; Monin
+454	279.1	EDC	Lemieux-Dudon; Monin
+464	281.9	EDC	Lemieux-Dudon; Monin
+553	277.7	EDC	Lemieux-Dudon; Monin
+618	281.1	EDC	Lemieux-Dudon; Monin
+721	282.2	EDC	Lemieux-Dudon; Monin
+817	280.1	EDC	Lemieux-Dudon; Monin
+922	278.4	EDC	Lemieux-Dudon; Monin
+1004	276.6	EDC	Lemieux-Dudon; Monin
+1094	279.1	EDC	Lemieux-Dudon; Monin
+1185	277.7	EDC	Lemieux-Dudon; Monin
+1259	278.7	EDC	Lemieux-Dudon; Monin
+1366	277.4	EDC	Lemieux-Dudon; Monin
+1476	279.2	EDC	Lemieux-Dudon; Monin
+1570	280.0	EDC	Lemieux-Dudon; Monin
+1648	278.9	EDC	Lemieux-Dudon; Monin
+1750	278.7	EDC	Lemieux-Dudon; Monin
+1824	278.0	EDC	Lemieux-Dudon; Monin
+1941	276.9	EDC	Lemieux-Dudon; Monin
+2058	276.7	EDC	Lemieux-Dudon; Monin
+2136	276.7	EDC	Lemieux-Dudon; Monin
+2213	277.6	EDC	Lemieux-Dudon; Monin
+2338	277.9	EDC	Lemieux-Dudon; Monin
+2444	273.9	EDC	Lemieux-Dudon; Monin
+2547	278.9	EDC	Lemieux-Dudon; Monin
+2623	275.3	EDC	Lemieux-Dudon; Monin
+2740	274.7	EDC	Lemieux-Dudon; Monin
+2814	276.3	EDC	Lemieux-Dudon; Monin
+2906	274.6	EDC	Lemieux-Dudon; Monin
+3068	276.3	EDC	Lemieux-Dudon; Monin
+3124	273.1	EDC	Lemieux-Dudon; Monin
+3217	274.0	EDC	Lemieux-Dudon; Monin
+3343	275.0	EDC	Lemieux-Dudon; Monin
+3473	273.4	EDC	Lemieux-Dudon; Monin
+3552	273.0	EDC	Lemieux-Dudon; Monin
+3644	271.5	EDC	Lemieux-Dudon; Monin
+3743	275.4	EDC	Lemieux-Dudon; Monin
+3822	274.9	EDC	Lemieux-Dudon; Monin
+3943	271.7	EDC	Lemieux-Dudon; Monin
+4039	271.6	EDC	Lemieux-Dudon; Monin
+4140	272.8	EDC	Lemieux-Dudon; Monin
+4197	271.5	EDC	Lemieux-Dudon; Monin
+4361	271.1	EDC	Lemieux-Dudon; Monin
+4416	269.1	EDC	Lemieux-Dudon; Monin
+4517	269.8	EDC	Lemieux-Dudon; Monin
+4615	271.5	EDC	Lemieux-Dudon; Monin
+4760	270.7	EDC	Lemieux-Dudon; Monin
+4814	269.3	EDC	Lemieux-Dudon; Monin
+4917	268.6	EDC	Lemieux-Dudon; Monin
+5060	269.8	EDC	Lemieux-Dudon; Monin
+5136	267.6	EDC	Lemieux-Dudon; Monin
+5217	265.3	EDC	Lemieux-Dudon; Monin
+5344	265.2	EDC	Lemieux-Dudon; Monin
+5432	267.6	EDC	Lemieux-Dudon; Monin
+5554	265.9	EDC	Lemieux-Dudon; Monin
+5646	265.5	EDC	Lemieux-Dudon; Monin
+5741	260.7	EDC	Lemieux-Dudon; Monin
+5790	266.7	EDC	Lemieux-Dudon; Monin
+5927	265.5	EDC	Lemieux-Dudon; Monin
+6067	263.2	EDC	Lemieux-Dudon; Monin
+6105	262.7	EDC	Lemieux-Dudon; Monin
+6202	261.2	EDC	Lemieux-Dudon; Monin
+6337	261.1	EDC	Lemieux-Dudon; Monin
+6417	259.4	EDC	Lemieux-Dudon; Monin
+6499	262.1	EDC	Lemieux-Dudon; Monin
+6613	262.9	EDC	Lemieux-Dudon; Monin
+6688	258.1	EDC	Lemieux-Dudon; Monin
+6766	257.6	EDC	Lemieux-Dudon; Monin
+6895	262.3	EDC	Lemieux-Dudon; Monin
+6994	263.0	EDC	Lemieux-Dudon; Monin
+7087	260.7	EDC	Lemieux-Dudon; Monin
+7176	258.4	EDC	Lemieux-Dudon; Monin
+7297	260.1	EDC	Lemieux-Dudon; Monin
+7396	260.4	EDC	Lemieux-Dudon; Monin
+7486	259.7	EDC	Lemieux-Dudon; Monin
+7581	259.2	EDC	Lemieux-Dudon; Monin
+7675	260.8	EDC	Lemieux-Dudon; Monin
+7780	259.6	EDC	Lemieux-Dudon; Monin
+7873	259.3	EDC	Lemieux-Dudon; Monin
+7987	258.3	EDC	Lemieux-Dudon; Monin
+8098	261.3	EDC	Lemieux-Dudon; Monin
+8176	260.7	EDC	Lemieux-Dudon; Monin
+8340	261.8	EDC	Lemieux-Dudon; Monin
+8458	259.0	EDC	Lemieux-Dudon; Monin
+8567	260.9	EDC	Lemieux-Dudon; Monin
+8676	260.4	EDC	Lemieux-Dudon; Monin
+8794	259.3	EDC	Lemieux-Dudon; Monin
+8889	262.0	EDC	Lemieux-Dudon; Monin
+8893	267.9	WDC	Marcott et al. 
+8985	265.4	WDC	Marcott et al. 
+9081	268.9	WDC	Marcott et al. 
+9177	264.0	WDC	Marcott et al. 
+9275	270.6	WDC	Marcott et al. 
+9370	269.2	WDC	Marcott et al. 
+9468	263.8	WDC	Marcott et al. 
+9561	265.5	WDC	Marcott et al. 
+9654	271.2	WDC	Marcott et al. 
+9760	265.0	WDC	Marcott et al. 
+9850	269.8	WDC	Marcott et al. 
+9953	265.9	WDC	Marcott et al. 
+10047	270.7	WDC	Marcott et al. 
+10148	268.0	WDC	Marcott et al. 
+10249	267.2	WDC	Marcott et al. 
+10353	267.4	WDC	Marcott et al. 
+10455	267.5	WDC	Marcott et al. 
+10556	271.3	WDC	Marcott et al. 
+10657	280.9	WDC	Marcott et al. 
+10758	268.1	WDC	Marcott et al. 
+10862	271.5	WDC	Marcott et al. 
+10957	271.8	WDC	Marcott et al. 
+11053	275.9	WDC	Marcott et al. 
+11151	268.1	WDC	Marcott et al. 
+11247	277.0	WDC	Marcott et al. 
+11339	268.8	WDC	Marcott et al. 
+11383	268.8	WDC	Marcott et al. 
+11400	272.2	WDC	Marcott et al. 
+11417	268.5	WDC	Marcott et al. 
+11436	274.1	WDC	Marcott et al. 
+11453	272.9	WDC	Marcott et al. 
+11473	273.1	WDC	Marcott et al. 
+11490	271.2	WDC	Marcott et al. 
+11507	271.7	WDC	Marcott et al. 
+11524	273.5	WDC	Marcott et al. 
+11544	270.9	WDC	Marcott et al. 
+11560	266.7	WDC	Marcott et al. 
+11576	271.1	WDC	Marcott et al. 
+11592	264.7	WDC	Marcott et al. 
+11611	265.3	WDC	Marcott et al. 
+11629	270.2	WDC	Marcott et al. 
+11648	261.1	WDC	Marcott et al. 
+11665	251.6	WDC	Marcott et al. 
+11683	258.6	WDC	Marcott et al. 
+11701	258.0	WDC	Marcott et al. 
+11720	260.0	WDC	Marcott et al. 
+11741	259.9	WDC	Marcott et al. 
+11759	262.7	WDC	Marcott et al. 
+11781	262.2	WDC	Marcott et al. 
+11803	262.5	WDC	Marcott et al. 
+11821	261.2	WDC	Marcott et al. 
+11843	258.3	WDC	Marcott et al. 
+11863	257.6	WDC	Marcott et al. 
+11883	255.6	WDC	Marcott et al. 
+11905	259.9	WDC	Marcott et al. 
+11927	262.6	WDC	Marcott et al. 
+11948	252.9	WDC	Marcott et al. 
+11970	258.0	WDC	Marcott et al. 
+11991	259.4	WDC	Marcott et al. 
+12016	251.9	WDC	Marcott et al. 
+12037	252.4	WDC	Marcott et al. 
+12059	257.1	WDC	Marcott et al. 
+12080	255.0	WDC	Marcott et al. 
+12105	259.7	WDC	Marcott et al. 
+12125	257.0	WDC	Marcott et al. 
+12146	255.1	WDC	Marcott et al. 
+12168	255.4	WDC	Marcott et al. 
+12190	255.0	WDC	Marcott et al. 
+12211	253.7	WDC	Marcott et al. 
+12233	253.2	WDC	Marcott et al. 
+12256	253.0	WDC	Marcott et al. 
+12281	253.4	WDC	Marcott et al. 
+12301	252.9	WDC	Marcott et al. 
+12321	254.7	WDC	Marcott et al. 
+12343	251.0	WDC	Marcott et al. 
+12365	248.3	WDC	Marcott et al. 
+12388	247.0	WDC	Marcott et al. 
+12409	250.4	WDC	Marcott et al. 
+12432	251.7	WDC	Marcott et al. 
+12455	249.8	WDC	Marcott et al. 
+12475	250.2	WDC	Marcott et al. 
+12496	248.4	WDC	Marcott et al. 
+12521	250.7	WDC	Marcott et al. 
+12544	253.9	WDC	Marcott et al. 
+12565	248.3	WDC	Marcott et al. 
+12587	251.0	WDC	Marcott et al. 
+12608	252.1	WDC	Marcott et al. 
+12630	250.9	WDC	Marcott et al. 
+12654	247.9	WDC	Marcott et al. 
+12674	246.5	WDC	Marcott et al. 
+12697	248.2	WDC	Marcott et al. 
+12720	245.6	WDC	Marcott et al. 
+12740	251.3	WDC	Marcott et al. 
+12763	244.0	WDC	Marcott et al. 
+12786	245.5	WDC	Marcott et al. 
+12809	246.2	WDC	Marcott et al. 
+12830	246.1	WDC	Marcott et al. 
+12853	243.3	WDC	Marcott et al. 
+12874	245.2	WDC	Marcott et al. 
+12893	243.4	WDC	Marcott et al. 
+12917	242.8	WDC	Marcott et al. 
+12939	242.2	WDC	Marcott et al. 
+12960	244.7	WDC	Marcott et al. 
+12981	241.1	WDC	Marcott et al. 
+13001	243.4	WDC	Marcott et al. 
+13022	238.7	WDC	Marcott et al. 
+13044	242.9	WDC	Marcott et al. 
+13067	241.9	WDC	Marcott et al. 
+13088	245.6	WDC	Marcott et al. 
+13128	238.8	WDC	Marcott et al. 
+13173	240.9	WDC	Marcott et al. 
+13216	243.4	WDC	Marcott et al. 
+13267	244.4	WDC	Marcott et al. 
+13304	240.9	WDC	Marcott et al. 
+13418	241.8	WDC	Marcott et al. 
+13487	244.3	WDC	Marcott et al. 
+13532	239.8	WDC	Marcott et al. 
+13601	247.9	WDC	Marcott et al. 
+13645	242.5	WDC	Marcott et al. 
+13713	245.6	WDC	Marcott et al. 
+13759	245.1	WDC	Marcott et al. 
+13827	243.1	WDC	Marcott et al. 
+13872	242.0	WDC	Marcott et al. 
+13940	244.6	WDC	Marcott et al. 
+14002	239.9	WDC	Marcott et al. 
+14023	241.9	WDC	Marcott et al. 
+14060	245.3	WDC	Marcott et al. 
+14084	236.9	WDC	Marcott et al. 
+14120	240.4	WDC	Marcott et al. 
+14157	243.2	WDC	Marcott et al. 
+14180	243.4	WDC	Marcott et al. 
+14206	242.4	WDC	Marcott et al. 
+14237	240.6	WDC	Marcott et al. 
+14273	244.2	WDC	Marcott et al. 
+14299	243.0	WDC	Marcott et al. 
+14309	239.8	WDC	Marcott et al. 
+14343	246.1	WDC	Marcott et al. 
+14354	242.4	WDC	Marcott et al. 
+14375	244.3	WDC	Marcott et al. 
+14411	246.5	WDC	Marcott et al. 
+14422	246.6	WDC	Marcott et al. 
+14443	244.9	WDC	Marcott et al. 
+14464	242.6	WDC	Marcott et al. 
+14497	246.1	WDC	Marcott et al. 
+14521	245.1	WDC	Marcott et al. 
+14531	247.2	WDC	Marcott et al. 
+14542	239.8	WDC	Marcott et al. 
+14553	245.7	WDC	Marcott et al. 
+14564	243.9	WDC	Marcott et al. 
+14576	243.8	WDC	Marcott et al. 
+14586	242.0	WDC	Marcott et al. 
+14595	239.3	WDC	Marcott et al. 
+14606	241.6	WDC	Marcott et al. 
+14619	242.0	WDC	Marcott et al. 
+14630	244.1	WDC	Marcott et al. 
+14645	242.1	WDC	Marcott et al. 
+14652	238.6	WDC	Marcott et al. 
+14664	237.4	WDC	Marcott et al. 
+14675	238.3	WDC	Marcott et al. 
+14686	241.5	WDC	Marcott et al. 
+14697	232.9	WDC	Marcott et al. 
+14707	232.2	WDC	Marcott et al. 
+14718	234.5	WDC	Marcott et al. 
+14731	238.5	WDC	Marcott et al. 
+14743	235.5	WDC	Marcott et al. 
+14759	231.9	WDC	Marcott et al. 
+14763	228.6	WDC	Marcott et al. 
+14776	231.4	WDC	Marcott et al. 
+14788	231.8	WDC	Marcott et al. 
+14799	232.5	WDC	Marcott et al. 
+14811	231.6	WDC	Marcott et al. 
+14822	230.5	WDC	Marcott et al. 
+14835	232.4	WDC	Marcott et al. 
+14845	231.9	WDC	Marcott et al. 
+14858	237.2	WDC	Marcott et al. 
+14869	236.2	WDC	Marcott et al. 
+14881	231.9	WDC	Marcott et al. 
+14892	234.6	WDC	Marcott et al. 
+14904	232.7	WDC	Marcott et al. 
+14916	232.4	WDC	Marcott et al. 
+14929	232.5	WDC	Marcott et al. 
+14954	232.9	WDC	Marcott et al. 
+14976	233.8	WDC	Marcott et al. 
+14987	231.7	WDC	Marcott et al. 
+15011	232.4	WDC	Marcott et al. 
+15035	229.4	WDC	Marcott et al. 
+15073	233.0	WDC	Marcott et al. 
+15096	238.5	WDC	Marcott et al. 
+15134	233.7	WDC	Marcott et al. 
+15157	232.8	WDC	Marcott et al. 
+15181	231.8	WDC	Marcott et al. 
+15219	234.2	WDC	Marcott et al. 
+15243	232.3	WDC	Marcott et al. 
+15281	229.8	WDC	Marcott et al. 
+15321	231.6	WDC	Marcott et al. 
+15345	232.9	WDC	Marcott et al. 
+15383	229.4	WDC	Marcott et al. 
+15410	228.7	WDC	Marcott et al. 
+15463	227.3	WDC	Marcott et al. 
+15546	227.5	WDC	Marcott et al. 
+15649	226.8	WDC	Marcott et al. 
+15705	226.2	WDC	Marcott et al. 
+15768	228.9	WDC	Marcott et al. 
+15845	226.4	WDC	Marcott et al. 
+15920	227.5	WDC	Marcott et al. 
+15937	227.8	WDC	Marcott et al. 
+15995	227.7	WDC	Marcott et al. 
+15999	228.4	WDC	Marcott et al. 
+16015	226.4	WDC	Marcott et al. 
+16034	228.5	WDC	Marcott et al. 
+16083	228.2	WDC	Marcott et al. 
+16114	226.4	WDC	Marcott et al. 
+16151	228.9	WDC	Marcott et al. 
+16167	230.2	WDC	Marcott et al. 
+16187	225.5	WDC	Marcott et al. 
+16209	231.3	WDC	Marcott et al. 
+16223	227.2	WDC	Marcott et al. 
+16241	224.5	WDC	Marcott et al. 
+16261	222.6	WDC	Marcott et al. 
+16279	218.2	WDC	Marcott et al. 
+16297	216.8	WDC	Marcott et al. 
+16317	218.6	WDC	Marcott et al. 
+16337	216.4	WDC	Marcott et al. 
+16354	218.8	WDC	Marcott et al. 
+16375	215.2	WDC	Marcott et al. 
+16392	213.5	WDC	Marcott et al. 
+16411	216.9	WDC	Marcott et al. 
+16431	215.8	WDC	Marcott et al. 
+16458	221.2	WDC	Marcott et al. 
+16472	217.9	WDC	Marcott et al. 
+16510	211.9	WDC	Marcott et al. 
+16554	212.7	WDC	Marcott et al. 
+16590	212.5	WDC	Marcott et al. 
+16656	217.2	WDC	Marcott et al. 
+16734	214.2	WDC	Marcott et al. 
+16798	209.5	WDC	Marcott et al. 
+16869	209.2	WDC	Marcott et al. 
+16929	206.9	WDC	Marcott et al. 
+16995	208.3	WDC	Marcott et al. 
+17092	206.1	WDC	Marcott et al. 
+17164	202.6	WDC	Marcott et al. 
+17236	202.3	WDC	Marcott et al. 
+17288	199.9	WDC	Marcott et al. 
+17312	198.7	WDC	Marcott et al. 
+17360	194.5	WDC	Marcott et al. 
+17385	197.0	WDC	Marcott et al. 
+17410	195.9	WDC	Marcott et al. 
+17435	194.8	WDC	Marcott et al. 
+17461	197.0	WDC	Marcott et al. 
+17485	195.5	WDC	Marcott et al. 
+17511	195.6	WDC	Marcott et al. 
+17535	196.4	WDC	Marcott et al. 
+17561	196.6	WDC	Marcott et al. 
+17586	201.0	WDC	Marcott et al. 
+17612	199.8	WDC	Marcott et al. 
+17638	197.2	WDC	Marcott et al. 
+17665	198.4	WDC	Marcott et al. 
+17691	195.5	WDC	Marcott et al. 
+17717	193.5	WDC	Marcott et al. 
+17744	194.4	WDC	Marcott et al. 
+17770	195.7	WDC	Marcott et al. 
+17798	191.3	WDC	Marcott et al. 
+17825	195.2	WDC	Marcott et al. 
+17855	193.5	WDC	Marcott et al. 
+17881	194.3	WDC	Marcott et al. 
+17907	195.7	WDC	Marcott et al. 
+17936	192.5	WDC	Marcott et al. 
+17966	192.7	WDC	Marcott et al. 
+17992	193.0	WDC	Marcott et al. 
+18024	191.8	WDC	Marcott et al. 
+18050	191.7	WDC	Marcott et al. 
+18082	192.6	WDC	Marcott et al. 
+18111	192.6	WDC	Marcott et al. 
+18140	188.9	WDC	Marcott et al. 
+18173	193.0	WDC	Marcott et al. 
+18202	189.6	WDC	Marcott et al. 
+18232	192.9	WDC	Marcott et al. 
+18265	192.5	WDC	Marcott et al. 
+18296	193.0	WDC	Marcott et al. 
+18324	191.1	WDC	Marcott et al. 
+18360	192.7	WDC	Marcott et al. 
+18391	192.2	WDC	Marcott et al. 
+18422	192.5	WDC	Marcott et al. 
+18458	191.4	WDC	Marcott et al. 
+18487	191.1	WDC	Marcott et al. 
+18520	191.7	WDC	Marcott et al. 
+18583	192.6	WDC	Marcott et al. 
+18677	197.9	WDC	Marcott et al. 
+18747	195.3	WDC	Marcott et al. 
+18804	197.0	WDC	Marcott et al. 
+18835	192.4	WDC	Marcott et al. 
+18867	192.5	WDC	Marcott et al. 
+18994	196.7	WDC	Marcott et al. 
+19153	195.1	WDC	Marcott et al. 
+19282	195.6	WDC	Marcott et al. 
+19443	195.5	WDC	Marcott et al. 
+19568	193.0	WDC	Marcott et al. 
+19629	195.4	WDC	Marcott et al. 
+19791	197.6	WDC	Marcott et al. 
+19884	200.1	WDC	Marcott et al. 
+20019	197.7	WDC	Marcott et al. 
+20213	194.5	WDC	Marcott et al. 
+20408	194.0	WDC	Marcott et al. 
+20537	197.9	WDC	Marcott et al. 
+20666	191.8	WDC	Marcott et al. 
+20828	196.7	WDC	Marcott et al. 
+20964	194.9	WDC	Marcott et al. 
+21068	192.4	WDC	Marcott et al. 
+21213	194.1	WDC	Marcott et al. 
+21345	191.2	WDC	Marcott et al. 
+21563	189.2	WDC	Marcott et al. 
+21791	192.0	WDC	Marcott et al. 
+21914	194.8	WDC	Marcott et al. 
+22056	191.4	WDC	Marcott et al. 
+22231	195.3	WDC	Marcott et al. 
+22368	196.1	WDC	Marcott et al. 
+22612	198.0	WDC	Marcott et al. 
+22677	194.0	WDC	Marcott et al. 
+22748	195.2	WDC	Marcott et al. 
+22841	200.0	WDC	Marcott et al. 
+22922	200.0	WDC	Marcott et al. 
+22962	198.9	WDC	Marcott et al. 
+23030	197.6	WDC	Marcott et al. 

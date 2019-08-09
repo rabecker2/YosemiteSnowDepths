@@ -126,3 +126,22 @@
 # SwampLakeTOC.txt = the Total Organic Carbon record from Swamp Lake, provided to us by Joe Street.
 # SwampLakeMag.txt = the magnetic susceptibility record from Swamp Lake, provided by Joe Street.
 # SwampLake14CAgesCALIB71.txt = the radicarbon and Calib 7.1 calibrated radiocarbon ages for the Swamp Lake core.
+
+# NGRIP_d18OandDust.txt = The NGRIP d18O and dust records, downloaded from http://www.iceandclimate.nbi.ku.dk/data/
+# NorthAtlanticIRDdata_SternLisiecki.txt = North Atlantic IRD data from Stern and Lisiecki (2013)
+# Hendy2002_forR.txt = d13C and d18O records from _G. bulloides_ and _N. pachyderma_ in the Santa Barbara Basin (Hendy et al., 2002)
+# GlobalTempRecord.txt = global temp reconstruction of Shakun et al., 2012, Nature.
+# IceCoreCO2.txt = global CO2 reconstruction of Marcott et al., 2014, Nature.
+# McClymontEtAl2012_GulfOfCA_UK37_SST_forR.txt = the UK37 SST reconstruction for the Gulf of CA by McClymont et al., 2012.
+# McClymontEtAl2012_GulfOfCA_TEXH86_SST_forR.txt = the TEXH86 thermocline temperature reconstruction for the Gulf of CA by McClymont et al., 2012
+# McClymontEtAl2012_GulfOfCA_Opal_R.txt = the opal flux, a measure of biological productivity, in the Gulf of CA by McClymont et al., 2012
+# McClymontEtAl2012_GulfOfCA_DeltaT_forR.txt = the difference in surface vs. thermocline water temperatures, and thus a measure of the strength of mixing.
+# MoaningCaveCA.txt = d13C and d18O record from Moaning Cave, CA (Oster et al., 2009)
+# McLean.txt = d13C and d18O record from McLean Cave, CA (Oster et al., 2015, QSR)
+# AsmeromEtAl2010_FortStantonCaveNM.txt = d18O record from Fort Stanton Cave, NM (Asmerom et al., 2010)
+# CaveOfTheBells.txt = d18O record from Cave of the Bells, AZ (Wagner et al., 2010)
+# MarcottEtAl2014Fig2_coreTN57_13PC.txt = Opal flux from Anderson et al., 2009, as recorded in the supplemental file to Marcott et al., 2014
+# MarcottEtAl2014Fig2_coreE27_23.txt = Opal flux from Anderson et al., 2009, as recorded in the supplemental file to Marcott et al., 2014
+# PartinEtAl2007_Borneo_4N.txt = d18O record from Borneo from Partin et al., 2007
+# WuEtAl_HuluCave.txt = the d18O record from Hulu Cave from Wu et al., 2009
+# Methane.txt = global methane record from WAIS from Marcott et al., 2014, Nature

@@ -145,3 +145,5 @@
 # PartinEtAl2007_Borneo_4N.txt = d18O record from Borneo from Partin et al., 2007
 # WuEtAl_HuluCave.txt = the d18O record from Hulu Cave from Wu et al., 2009
 # Methane.txt = global methane record from WAIS from Marcott et al., 2014, Nature
+
+# camelGrapher54 - for GitHub.R = the R script that (1) compiles the 1000 Monte Carlo trials for each Tuolumne Meadows and Lyell Canyon Be-10 sample into a single age estimate for each sample and (2) creates many of the figures used in the manuscript, which we are preparing for QSR.
